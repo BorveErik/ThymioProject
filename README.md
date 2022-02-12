@@ -17,3 +17,9 @@ The resulting Motion control is displayed in the video below.
 
 https://user-images.githubusercontent.com/81572776/153708500-784dddef-6b9c-4efc-996d-09a122e975ed.mp4
 
+## Introduction
+December 2021, a group of 4 students has kipnapped one of the famous robots, called "Thymio". Thymio is having a hard time with the students, why he is trying to escape from them and to return back to its creator Mr. Thymio. However, it turns out that this is not easy task. During his journey, Thymio will face global obstacles, students will cross his path (local obstacles) and he will be kipnapped for a second time. The question is, in this difficult circumstances, will Thymio manage to reach his goal to be reunited with its creator agian?
+
+We wish him all the best.
+
+![alt_text](https://raw.githubusercontent.com/BorveErik/ThymioProject/main/Report_Images/set_up.jpg)
