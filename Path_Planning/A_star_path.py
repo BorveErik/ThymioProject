@@ -108,17 +108,14 @@ class AStarPlanner:
                 # If the node is not safe, do nothing
                 if not self.verify_node(node):
                     continue
-
                 if n_id in closed_set:
                     continue
-
                 if n_id not in open_set:
                     open_set[n_id] = node  # discovered a new node
                 else:
                     if open_set[n_id].cost > node.cost:
                         # This path is the best until now. record it
                         open_set[n_id] = node
-
         rx, ry = self.calc_final_path(goal_node, closed_set)
 
         return rx, ry
