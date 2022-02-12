@@ -18,4 +18,4 @@ The resulting Motion control is displayed in the video below.
 https://user-images.githubusercontent.com/81572776/153708500-784dddef-6b9c-4efc-996d-09a122e975ed.mp4
 
 
-The project is described in more detail in the report
+The project is described in more detail in the report.
