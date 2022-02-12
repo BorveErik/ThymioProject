@@ -1,7 +1,7 @@
 # Thymio Project
 By: Iskandar Khemakhem, Erik Börve, Maximilian van Amerongen, Romane Belda
 
-Basics of Mobil Robotics, EPFL, 12-12-2020
+Basics of Mobil Robotics, EPFL, 12-12-2021
 
 
 ## Abstract
