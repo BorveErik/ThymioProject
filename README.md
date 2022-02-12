@@ -12,7 +12,7 @@ A Kalman Fitler was designed to fuse different sensors and localize the Thymio o
 
 Finally, simple motion control combined with local obstacle avoidance has been applied to achieve path following and to avoid unknown obstacles.
 
-The resulting Motion control is displayed in the video below.
+The resulting Motion control is displayed in the video below (significantly speed up).
 
 
 https://user-images.githubusercontent.com/81572776/153708500-784dddef-6b9c-4efc-996d-09a122e975ed.mp4
